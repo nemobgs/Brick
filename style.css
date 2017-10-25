@@ -88,8 +88,9 @@ a:hover{
 }
 .inputBlock{
 	margin-left: 105px;
-	width: 71%;
+	width: 72%;
 }
 .btn-warning{
 	margin-left: 17px;
+	color: #51296f;
 }
